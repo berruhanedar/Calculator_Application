@@ -1,6 +1,6 @@
 # Calculator_Application
  
-<img src= "https://github.com/user-attachments/assets/dcbeda0e-9b3e-43d8-8fa4-9201e288cd03" width="100" height="200">
+<img src= "https://github.com/user-attachments/assets/dcbeda0e-9b3e-43d8-8fa4-9201e288cd03" width="100" height="175">
 
 This repository contains a simple yet powerful calculator application built using Windows Forms. The application is designed to perform basic arithmetic operations with a user-friendly interface.
 
