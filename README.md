@@ -18,6 +18,13 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 - Windows operating system
+-.NET Framework 
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/berruhanedar/Calculator_Application.git
 
 
 
